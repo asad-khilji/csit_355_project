@@ -1,0 +1,19 @@
+.cart {
+    max-width: 1200px;
+    margin: auto;
+    padding: 20px;
+    line-height: 2;
+}
+
+.cart .btn {
+    background-color: gray;
+    color: white;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.cart a {
+    text-decoration: none;
+    color: white;
+}
