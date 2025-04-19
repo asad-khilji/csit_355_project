@@ -3,7 +3,7 @@ const createHeader = () => {
 
     header.innerHTML = `
         <header>
-            <a href="index.html"><h1>Site Name</h1></a>
+            <a href="index.html"><h1>Everything Chrysanthemum</h1></a>
         </header>
     `;
 }
@@ -15,11 +15,11 @@ const createNav = () => {
 
     nav.innerHTML = `
         <nav>
-            <a href="category.html">Category 1</a>
-            <a href="category.html">Category 2</a>
-            <a href="category.html">Category 3</a>
-            <a href="category.html">Category 4</a>
-            <a href="category.html">Category 1</a>
+            <a href="index.html">Home</a>
+            <a href="category.html">Products</a>
+            <a href="account.html">Account</a>
+            <a href="receipt.html">Receipt</a>
+            <a href="cart.html">Shopping Cart</a>
         </nav>
     `;
 }
